@@ -6,7 +6,7 @@ This github is a mess... so take what you want... but be careful!
 - 🌱 I’m currently learning angular and web languages (but also cybersecurity lol)
 - 👯 I’m looking to collaborate on whatever you want
 - 🤔 I’m looking for help with nothing (for yet...)
-- 💬 Ask me about my hobbies... ot IT
+- 💬 Ask me about my hobbies... or IT
 - 📫 How to reach me: homing pigeons
 - 😄 Pronouns: void
 - ⚡ Fun fact: still loading...
