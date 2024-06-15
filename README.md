@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-This github is a mess... so take what you want... but be careful! 
+This github is a mess... so take whatever you want... but be careful! 
 
 - 🔭 I’m currently working on cybersecurity
 - 🌱 I’m currently learning angular and web languages (but also cybersecurity lol)
