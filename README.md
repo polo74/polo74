@@ -1,5 +1,16 @@
 ## Hi there 👋
 
+This github is a mess... so take what you want... but be careful! 
+
+- 🔭 I’m currently working on cybersecurity
+- 🌱 I’m currently learning angular and web languages (but also cybersecurity lol)
+- 👯 I’m looking to collaborate on whatever you want
+- 🤔 I’m looking for help with nothing (for yet...)
+- 💬 Ask me about my hobbies... ot IT
+- 📫 How to reach me: homing pigeons
+- 😄 Pronouns: void
+- ⚡ Fun fact: still loading...
+
 <!--
 **polo74/polo74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
