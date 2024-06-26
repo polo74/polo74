@@ -8,7 +8,7 @@ This github is a mess... so take whatever you want... but be careful!
 - 🤔 I’m looking for help with nothing (for yet...)
 - 💬 Ask me about my hobbies... or IT
 - 📫 How to reach me: homing pigeons
-- 😄 Pronouns: why?
+- 😄 Pronouns: plz, stop with it 🤯
 - ⚡ Fun fact: still loading...
 
 <!--
