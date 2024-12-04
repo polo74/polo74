@@ -3,7 +3,7 @@
 This github is a mess... so take whatever you want... but be careful! 
 
 - 🔭 I’m currently working on cybersecurity
-- 🌱 I’m currently learning angular and web languages (but also cybersecurity lol)
+- 🌱 I’m currently learning angular and web languages (and for sure, cybersecurity)
 - 👯 I’m looking to collaborate on whatever you want
 - 🤔 I’m looking for help with nothing (for yet...)
 - 💬 Ask me about my hobbies... or IT
